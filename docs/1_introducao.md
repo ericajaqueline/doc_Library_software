@@ -1,0 +1,4 @@
+## 1\1. Introdução
+Em busca de automatizar o processo bibliográfico em instituições de ensino, a empresa Library Software é especializada em desenvolver projetos possibilitando e melhorando o acesso fácil às estatísticas do acervo da biblioteca, bem como as relacionadas a sua circulação. Situação que permite que a equipe dedicada ao setor realize ações de incentivo à leitura. O sistema é projetado visando possibilitar uma interface e navegabilidade otimizada, que atenda a demanda de todos os clientes. O software foi pensado para criar parcerias com instituições de ensino e bibliotecas, públicas ou privadas.
+
+![Nome imagem](./img/nomeimagem)
